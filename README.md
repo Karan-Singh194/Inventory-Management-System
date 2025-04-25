@@ -45,7 +45,7 @@ Install required Python libraries
 Run dashboard.py to start the system
 
 
-![alt text](screenshot/1 login.png)
+![alt text](cat2png)
 
 
 
