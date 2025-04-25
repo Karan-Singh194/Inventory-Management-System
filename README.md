@@ -24,28 +24,29 @@ A comprehensive Inventory Management System built using Python (Tkinter) and MyS
 - The screen shows the options for `Employee`, `Supplier`, `Category`, `Products` and `Sales` to perform CRUD operations.
 - This screen also updates timely as you perform operations on any of these Labels.
 
-![alt text](2_dashboard.png)
+![alt text](screenshot/2_dashboard.png)
+
 
 ### 2. employee.py
 - This screen collects and shows the complete data regarding an `employee`.
 - Buttons are functionalised accordingly.
 - You can search an employee by its `email`, `name` or `contact`.
 
-![alt text](3_employee.png)
+![alt text](screenshot/3_employee.png)
 
 ### 3. supplier.py
 - This screen collects and shows the complete data regarding `suppliers`.
 - Buttons are functionalised accordingly.
 - You can search a particular supplier details by `invoice no`.
 
-![alt text](4_supplier.png)
+![alt text](screenshot/4_supplier.png)
 
 
 ### 4. category.py
 - This screen collects and shows the information about the category of the product. LIKE:- If Product name is `IPhone` then its category is `Phone`.
 - This screen contains 2 buttons namely `add` and `delete`. These buttons are functionalised accordingly.
 
-![alt text](5_category.png)
+![alt text](screenshot/5_category.png)
 
 
 ### 5. product.py
@@ -54,14 +55,14 @@ A comprehensive Inventory Management System built using Python (Tkinter) and MyS
 - Buttons are functionalised accordingly.
 - You can search a product by its `category`, `supplier` or `name`.
 
-![alt text](6_product.png)
+![alt text](screenshot/6_product.png)
 
 
 ### 6. sales.py
 - This screen stores and shows the bills by an `invoice no`.
 - Buttons are functionalised accordingly.
 
-![alt text](7_sales.png)
+![alt text](screenshot/7_sales.png)
 
 
 ### 7. billing.py
@@ -70,12 +71,12 @@ A comprehensive Inventory Management System built using Python (Tkinter) and MyS
 - This screen also contains a `calculator` to calculate the total amount.
 - Buttons are functionalised accordingly.
 
-![alt text](8_billing.png)
+![alt text](screenshot/8_billing.png)
 
 ### 8. login.py
 - Role-based login: **Admin** (access to dashboard) and **Employee** (access to billing)
 
-![alt text](1_login.png)
+![alt text](screenshot/1_login.png)
 
 
 🛠️ Technologies Used
