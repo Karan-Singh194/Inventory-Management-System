@@ -96,11 +96,12 @@ Ensure that you have the following Python Pakages installed in your PC:
 
 📁 Project Structure
 inventory_system/
+├── login.py
 ├── dashboard.py
 ├── employee.py
-├── product.py
-├── category.py
 ├── supplier.py
+├── category.py
+├── product.py
 ├── sales.py
 ├── billing.py
 └── bill.txt
