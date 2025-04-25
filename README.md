@@ -71,7 +71,7 @@ A comprehensive Inventory Management System built using Python (Tkinter) and MyS
 - This screen also contains a `calculator` to calculate the total amount.
 - Buttons are functionalised accordingly.
 
-![alt text](screenshot/8_billing.png)
+![alt text](screenshot/9_billing.png)
 
 ### 8. login.py
 - Role-based login: **Admin** (access to dashboard) and **Employee** (access to billing)
