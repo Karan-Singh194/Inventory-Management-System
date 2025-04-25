@@ -96,7 +96,6 @@ Ensure that you have the following Python Pakages installed in your PC:
 
 📁 Project Structure
 inventory_system/
-├── login.py
 ├── dashboard.py
 ├── employee.py
 ├── supplier.py
@@ -112,9 +111,6 @@ Clone the repo
 Ensure MySQL is installed and database is set up
 Install required Python libraries
 Run dashboard.py to start the system
-
-
-![alt text](screenshot/1_login.png)
 
 
 
