@@ -7,7 +7,7 @@ A comprehensive Inventory Management System built using Python (Tkinter) and MyS
   - Role-based login: **Admin** (access to dashboard) and **Employee** (access to billing)
 - **Admin Dashboard**
   - Manage employees, products, suppliers, categories, and view sales data
-![Alt text](screenshot/1 login.png)
+![alt text](image.png)
 - **Billing System**
   - Easy-to-use interface for employees to create bills and manage transactions
 - **Product & Cart Management**
