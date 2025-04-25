@@ -28,11 +28,12 @@ PIL (for image handling)
 
 📁 Project Structure
 inventory_system/
+├── login.py
 ├── dashboard.py
 ├── employee.py
-├── product.py
-├── category.py
 ├── supplier.py
+├── category.py
+├── product.py
 ├── sales.py
 ├── billing.py
 └── bill.txt
