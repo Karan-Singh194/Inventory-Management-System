@@ -12,10 +12,6 @@ import sys
 import os
 
 
-
-
-
-
 def update():
 
     cursor,connection=connect_database()
@@ -47,7 +43,7 @@ def update():
     total_product_count_label.config(text=len(pro_records))
 
 
-    date_time=time.strftime(' %B, %d, %Y \t\t\t  %I:%M:%S %p on %A ')
+    date_time=time.strftime(' %B %d, %Y \t\t\t  %I:%M:%S %p on %A ')
     subtitlelabel.config(text=f"Welcome Admin {date_time}" )
     subtitlelabel.after(1000,update)
 
@@ -161,7 +157,6 @@ exit_icon=PhotoImage(file="exit.png")
 exit_Button=Button(leftframe,image=exit_icon,compound=LEFT,text=" Exit",cursor="hand2", 
                    font=("times new Roman", 20, 'bold'),anchor=W,padx=10,command=lambda: exit(window))
 exit_Button.pack(fill=X)
-
 
 
 emp_frame=Frame(window, bg="#2C3E50", bd=3, relief=RIDGE)
