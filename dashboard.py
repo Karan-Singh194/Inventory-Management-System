@@ -43,7 +43,7 @@ def update():
     total_product_count_label.config(text=len(pro_records))
 
 
-    date_time=time.strftime(' %B %d, %Y \t\t\t  %I:%M:%S %p on %A ')
+    date_time=time.strftime('%B %d, %Y \t\t\t  %I:%M:%S %p on %A ')
     subtitlelabel.config(text=f"Welcome Admin {date_time}" )
     subtitlelabel.after(1000,update)
 
